@@ -36,6 +36,12 @@ img.vspacer-20 {
   margin-bottom: 20px;
 }
 
+a.anchor {
+  position: relative;
+  top: -55px;
+  float: left;
+}
+
 .table > tbody > tr > td,
 .table > tbody > tr > th,
 .table > tfoot > tr > td,
