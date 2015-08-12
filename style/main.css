@@ -114,6 +114,22 @@ a.anchor {
   }
 }
 
+@media (max-width: 992px) {
+  .nav {
+    width: 600px;
+    height: 50px;
+    overflow: hidden;
+  }
+}
+
+@media (max-width: 832px) {
+  .nav {
+    width: 550px;
+    height: 50px;
+    overflow: hidden;
+  }
+}
+
 .jumbotron {
   background: linear-gradient(to bottom, #89ac10, #a1c22d);
   color: #e9f3d9;
