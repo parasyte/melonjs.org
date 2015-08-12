@@ -131,7 +131,7 @@ a.anchor {
 }
 
 .jumbotron {
-  background: url("../media/logo-bg.png") bottom -50px left 15% no-repeat, linear-gradient(to bottom, #89ac10, #a1c22d) #89ac10;
+  background: url("../media/logo-bg.png") bottom -35px left 15% no-repeat, linear-gradient(to bottom, #89ac10, #a1c22d) #89ac10;
   color: #e9f3d9;
   margin-top: 50px;
   padding-bottom: 68px;
