@@ -80,9 +80,8 @@ a.anchor {
 }
 
 .navbar.navbar-inverse {
-  background-image: linear-gradient(to bottom, #2B75DF, #3F50B6);
-  background-color: #2B75DF;
-  border-color: #12325F;
+  background-image: linear-gradient(to bottom, #666, #444);
+  background-color: #666;
 }
 
 .navbar.navbar-inverse .navbar-brand {
@@ -93,13 +92,8 @@ a.anchor {
 
 .navbar.navbar-inverse .navbar-nav > .active > a,
 .navbar.navbar-inverse .navbar-nav > .open > a {
-  background-image: linear-gradient(to bottom, #131836, #12325F);
-  background-color: #131836;
-  color: #fff;
-}
-
-.navbar.navbar-inverse .navbar-nav > li > a {
-  color: #acf;
+  background-image: linear-gradient(to bottom, #333, #222);
+  background-color: #222;
 }
 
 .forkme {
